@@ -1,0 +1,1 @@
+[class_variable_and_instance_variable](/class_variable_and_instance_variable/class_variable_and_instance_variable.ipynb)
